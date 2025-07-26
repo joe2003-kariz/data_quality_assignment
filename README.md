@@ -13,20 +13,13 @@ This repository contains Jupyter notebooks and related materials for a project o
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/data-quality-assignment.git
+   git clone https://github.com/joe2003-kariz/data-quality-assignment.git
    ```
 
 2. Install the required packages (if not already available):
    ```bash
    pip install pandas matplotlib requests
    ```
-
-3. Open and run the Jupyter notebooks in order.
-
-## Appendix Links (Rendered Viewers)
-
-- ECB Scraper: https://nbviewer.org/github/your-username/data-quality-assignment/blob/main/ecb_scraper.ipynb
-- Cleaning Notebook: https://nbviewer.org/github/your-username/data-quality-assignment/blob/main/data_cleaning.ipynb
 
 ## License
 
